@@ -10,11 +10,11 @@ h1 {
 
 }
 
-p {
+.pbox {
     background-color: darkgray;
     width: 90%;
     border: 2px solid black;
-    padding: 10px;
+    padding: 40px 10px 10px 10px;
     margin-right: auto;
     margin-left: auto;
 }
@@ -22,7 +22,6 @@ p {
 .row {
   width: 100%;
 }
-
 
 /********** Destop devices only **********/
 @media (min-width: 992px) {
