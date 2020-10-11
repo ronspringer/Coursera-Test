@@ -22,6 +22,35 @@ h1 {
 .row {
   width: 100%;
 }
+#t1 {
+    color: black;
+    border: 2px solid black;
+    padding: 2px 30px 2px 30px;
+    position: absolute;
+    left: 24.5%;
+    width: 120px;
+    height: 30px;
+}
+
+#t2 {
+    position: absolute;
+    left: 55%;
+    color: black;
+    border: 2px solid black;
+    padding: 2px 30px 2px 30px;
+    width: 120px;
+    height: 30px;
+}
+
+#t3 {
+    position: absolute;
+    left: 90%;
+    color: black;
+    border: 2px solid black;
+    padding: 2px 30px 2px 30px;
+    width: 120px;
+    height: 30px;
+}
 
 /********** Destop devices only **********/
 @media (min-width: 992px) {
