@@ -15,41 +15,44 @@ h1 {
     width: 90%;
     border: 2px solid black;
     padding: 40px 10px 10px 10px;
-    margin-right: auto;
-    margin-left: auto;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .row {
   width: 100%;
 }
 #t1 {
+    background-color: lightpink;
     color: black;
     border: 2px solid black;
     padding: 2px 30px 2px 30px;
     position: absolute;
-    left: 24.5%;
-    width: 120px;
-    height: 30px;
+    left: 23.7%;
+    width: 9%;
+    text-align: center;
 }
 
 #t2 {
+    background-color: #A52A2A;
     position: absolute;
-    left: 55%;
-    color: black;
+    left: 56.7%;
+    color: white;
     border: 2px solid black;
     padding: 2px 30px 2px 30px;
-    width: 120px;
-    height: 30px;
+    width: 9%;
+    text-align: center;
 }
 
 #t3 {
+    background-color: khaki;
     position: absolute;
-    left: 90%;
+    left: 89.5%;
     color: black;
     border: 2px solid black;
     padding: 2px 30px 2px 30px;
-    width: 120px;
-    height: 30px;
+    width: 9%;
+    text-align: center;
 }
 
 /********** Destop devices only **********/
@@ -59,7 +62,7 @@ h1 {
         border: 2px solid black;
       }
       .col-lg-4 {
-        width: 33.33%;
+        width: 31.8%;
       }
     }
 
