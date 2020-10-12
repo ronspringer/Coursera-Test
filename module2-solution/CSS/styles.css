@@ -126,12 +126,48 @@ h1 {
 @media (max-width: 767px) {
     .col-md-12 {
       float: left;
-      overflow: auto;
-      clear: both;
     }
     .col-md-12 {
-      width: 100%;
+      width: 96%;
+      margin-right: 2%;
+      margin-left: 2%;
     }
+
+    #t1 {
+      background-color: lightpink;
+      color: black;
+      border: 2px solid black;
+      padding: 2px 30px 2px 30px;
+      position: absolute;
+      top: 20.6%;
+      left: 83%;
+      width: 15%;
+      text-align: center;
+  }
+
+  #t2 {
+    background-color: #A52A2A;
+    position: absolute;
+    top: 60.2%;
+    left: 83%;
+    color: white;
+    border: 2px solid black;
+    padding: 2px 30px 2px 30px;
+    width: 15%;
+    text-align: center;
+  }
+
+  #t3 {
+    background-color: khaki;
+    position: absolute;
+    top: 99.5%;
+    left: 83%;
+    color: black;
+    border: 2px solid black;
+    padding: 2px 30px 2px 30px;
+    width: 15%;
+    text-align: center;
+}
   }
 
   
