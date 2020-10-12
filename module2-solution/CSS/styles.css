@@ -139,6 +139,7 @@ h1 {
       border: 2px solid black;
       padding: 2px 30px 2px 30px;
       position: absolute;
+      overflow: auto;
       top: 20.6%;
       left: 83%;
       width: 15%;
@@ -148,6 +149,7 @@ h1 {
   #t2 {
     background-color: #A52A2A;
     position: absolute;
+    overflow: auto;
     top: 60.2%;
     left: 83%;
     color: white;
@@ -160,6 +162,7 @@ h1 {
   #t3 {
     background-color: khaki;
     position: absolute;
+    overflow: auto;
     top: 99.5%;
     left: 83%;
     color: black;
