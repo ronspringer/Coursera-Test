@@ -54,8 +54,6 @@ div > h3{
     .col-lg-4 {
         float: left;
         margin-left: 2%;
-      }
-      .col-lg-4 {
         width: 30.66%;
       }
     }
@@ -81,8 +79,6 @@ div > h3{
 @media (max-width: 767px) {
     .col-md-12 {
       float: left;
-    }
-    .col-md-12 {
       width: 95%;
       margin-right: 2.5%;
       margin-left: 2.5%;
