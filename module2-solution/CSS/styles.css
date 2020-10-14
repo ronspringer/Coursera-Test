@@ -16,12 +16,14 @@ h1 {
   background-color: darkgray;
   border: 1px solid black;
   position: relative;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 div > h3{
   border-left: 1px solid black;
   border-bottom: 1px solid black;
   position: absolute;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   top: 0%;
   right: 0%;
   text-align: center;
@@ -34,6 +36,7 @@ div > h3{
 
 #t2{
   background-color: #A52A2A;
+  color: aliceblue;
  }
 
  #t3{
