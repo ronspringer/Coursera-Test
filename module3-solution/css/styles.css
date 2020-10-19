@@ -1,0 +1,36 @@
+body{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#nav-brand{
+    font-size: 30px;
+    color: black;
+}
+
+#header-nav{
+    border-radius: 0%;
+}
+
+#nav-list {
+    margin-top: 10px;
+  }
+
+#nav-list a {
+    text-align: center;
+    color: black;
+    font-size: 1.2em;
+}
+
+#nav-list a:hover {
+    background: #E7E7E7;
+}
+
+h2{
+    margin-bottom: 40px;
+}
+
+section{
+    background-color: darkgrey;
+    padding: 0.1px 20px 10px 20px;
+  }
