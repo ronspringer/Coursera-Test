@@ -6,6 +6,7 @@ body{
 #nav-brand{
     font-size: 30px;
     color: black;
+    text-align: left;
 }
 
 #header-nav{
